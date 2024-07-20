@@ -34,7 +34,7 @@
   <a href="https://instagram.com/abbdulazizov" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://t.me/AbdulazizovU" target="_blank">
+  <a href="https://t.me/Abdulazizov_Ulugbek" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
   <a href="aqllibola567@gmail.com" target="_blank">
